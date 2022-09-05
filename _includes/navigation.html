@@ -3,6 +3,8 @@
         <a href="{{item.link}}"
             {% if page.url == item.link %}
                 class="selectedLink"
+            {% else %}
+                class="unselectedLink"
             {% endif %}
         >{{item.name}}</a>
     {% endfor %}

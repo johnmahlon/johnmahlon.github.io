@@ -20,11 +20,19 @@ a, a:hover, a:visited, a:active {
     padding-top: 0.5em;
 }
 
+a {
+    text-decoration: underline;
+}
+
 p {
     max-width: 50em;
 }
 
-a {
-    color: #00237b;
-    text-decoration: underline
-  }
+.unselectedLink {
+    padding-right: 1.5em;
+    text-decoration: none;
+}
+
+.selectedLink {
+    padding-right: 1.5em;
+}

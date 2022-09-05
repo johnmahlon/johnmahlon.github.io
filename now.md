@@ -15,6 +15,3 @@ I've recently been interested in nature and have been keeping field notes while 
 I am currently working at AllianceBernstein as an iOS Developer in Nashville, TN.
 
 ===
-
-
-[What is a "now" page?](https://nownownow.com/about)
