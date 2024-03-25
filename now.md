@@ -1,17 +1,14 @@
 # now
-_last updated Feb 24, 2024_
+_last updated Mar 24, 2024_
 
 ### Personal Life
-Looking forward to traveling to NYC and a watching a few IndyCar races in-person this year. Also, looking forward to hiking and camping.
-
-🏙️ 🏎️ 🏕️
+Becca and I had a great time in NYC. We visited a few museums, rode a lot of subways, and ate some delicious food! Up next we'll be seeing Bob Dylan and heading to the Indianapolis Motor Speedway to watch the Indy 500. 
 
 ===
 
 ### Hobbies
-- Music Production and Recording
-- Exploring cassettes; in the process of restoring a Sony Walkman FX45
-- Playing Call of Duty MW3
+- Pickleball (started today, 3/24)
+- Watching hockey, indycar, and soon baseball
 
 ===
 
